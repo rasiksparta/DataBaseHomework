@@ -1,0 +1,7 @@
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\bin\Debug\LocalDB.exe.config
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\bin\Debug\LocalDB.exe
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\bin\Debug\LocalDB.pdb
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\obj\Debug\LocalDB.csprojAssemblyReference.cache
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\obj\Debug\LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\obj\Debug\LocalDB.exe
+C:\Users\Rasik Rana\Desktop\csharp\day5\LocalDB\LocalDB\obj\Debug\LocalDB.pdb
